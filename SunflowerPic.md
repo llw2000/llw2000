@@ -2,4 +2,4 @@
 
 #### Below is one of my favourite pictures of sunflowers
 
-![Alt text](/path/to/img.jpg "Title")
+![Alt text](sunflower1.jpg "Sunflower")
