@@ -9,6 +9,4 @@
 > > 2. The colours are clear and bright
 > > 3. Its a nice picture to look at
 
-#### Back to read me page
-[Read ME](README>md)
-[Read Me](README.md)
+
