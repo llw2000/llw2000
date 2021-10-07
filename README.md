@@ -11,6 +11,9 @@
 > > The pictures included is below:
 
 ![Alt text](/sunflower1.jpg "sunflower")
+![Alt text](/COCKTAIL.jpg "cocktail")
+
+
 
 #### Below is a link to the Lab Worksheet
 [Lab 1](https://canvas.hw.ac.uk/courses/5395/assignments/44108)
