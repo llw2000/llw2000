@@ -10,4 +10,4 @@
 > > 3. Its a nice picture to look at
 
 #### Back to read me page
-[Read Me](http://google.com/)
+[Read Me](README.md)
