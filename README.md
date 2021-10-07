@@ -7,10 +7,10 @@
 2. code.html
 3. Stylesheet.css
   
-> As well as files in the repository there is also a picture
-> > The picture included is below:
+> As well as files in the repository there is also a pictures
+> > The pictures included is below:
 
-![Alt text](/1520841847351.jpg "butterfly")
+![Alt text](/sunflower1.jpg "sunflower")
 
 #### Below is a link to the Lab Worksheet
 [Lab 1](https://canvas.hw.ac.uk/courses/5395/assignments/44108)
