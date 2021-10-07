@@ -17,3 +17,6 @@
 
 #### Below is a link to the Lab Worksheet
 [Lab 1](https://canvas.hw.ac.uk/courses/5395/assignments/44108)
+
+#### Links to about the Pictures
+![Alt text](/path/to/img.jpg "Title") 
