@@ -10,8 +10,8 @@
 > As well as files in the repository there is also a pictures
 > > The pictures included is below:
 
-![Alt text](/sunflower1.jpg "sunflower")
-![Alt text](/COCKTAIL.jpg "cocktail")
+![Sunflower](/sunflower1.jpg "sunflower")
+![Cocktail](/COCKTAIL.jpg "cocktail")
 
 
 
